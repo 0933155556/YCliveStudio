@@ -1,0 +1,8 @@
+{
+  "name": "@yclive/data",
+  "version": "1.0.0",
+  "private": true,
+  "exports": {
+    "./pipelines": "./pipelines.zh.json"
+  }
+}

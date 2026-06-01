@@ -1,0 +1,12 @@
+{
+  "name": "yclive-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "YClive Studio — 中文 AI 影片製作協作平台",
+  "packageManager": "pnpm@11.5.0",
+  "scripts": {
+    "dev": "pnpm --filter web dev",
+    "build": "pnpm --filter web build",
+    "preview": "pnpm --filter web preview"
+  }
+}
